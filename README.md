@@ -18,11 +18,14 @@ Some of these essays have appeared in the datasets for the Feedback Prize - Eval
 
 # File and Field Information #
 
- #### train.csv ####- The training set, comprising the full_text of each essay, identified by a unique text_id. The essays are also given a score for each of the seven analytic measures above: cohesion, etc. These analytic measures comprise the target for the competition.
+ #### train.csv #### 
+ The training set, comprising the full_text of each essay, identified by a unique text_id. The essays are also given a score for each of the seven analytic measures above: cohesion, etc. These analytic measures comprise the target for the competition.
 
-#### test.csv #### - For the test data we give only the full_text of an essay together with its text_id.
+#### test.csv #### 
+For the test data we give only the full_text of an essay together with its text_id.
 
-#### sample_submission.csv #### - A submission file in the correct format. See the Evaluation page for details.
+#### sample_submission.csv #### 
+A submission file in the correct format. See the Evaluation page for details.
 
 ### Please note that this is a Code Competition. We give a few sample essays in test.csv to help you author your solutions. When your submission is scored, this example test data will be replaced with the full test set. The full test set comprises about 2700 essays. ###
 
