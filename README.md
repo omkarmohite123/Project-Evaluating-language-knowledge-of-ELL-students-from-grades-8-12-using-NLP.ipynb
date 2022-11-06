@@ -1,7 +1,7 @@
 ### KAGGLE COMPETITION  ###
 
 ## COMPETITION NAME ##
- # Feedback Prize - English Language Learning Evaluating language knowledge of ELL students from grades 8-12 #
+ ### Feedback Prize - English Language Learning Evaluating language knowledge of ELL students from grades 8-12 ###
 
 # Goal of the Competition #
 The goal of this competition is to assess the language proficiency of 8th-12th grade English Language Learners (ELLs). Utilizing a dataset of essays written by ELLs will help to develop proficiency models that better supports all students.
@@ -27,7 +27,7 @@ For the test data we give only the full_text of an essay together with its text_
 #### sample_submission.csv #### 
 A submission file in the correct format. See the Evaluation page for details.
 
-### Please note that this is a Code Competition. We give a few sample essays in test.csv to help you author your solutions. When your submission is scored, this example test data will be replaced with the full test set. The full test set comprises about 2700 essays. ###
+#### Please note that this is a Code Competition. We give a few sample essays in test.csv to help you author your solutions. When your submission is scored, this example test data will be replaced with the full test set. The full test set comprises about 2700 essays. ####
 
 # link #
 https://www.kaggle.com/competitions/feedback-prize-english-language-learning/data
