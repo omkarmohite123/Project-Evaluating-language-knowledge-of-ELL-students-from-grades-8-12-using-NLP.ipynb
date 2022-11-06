@@ -23,8 +23,9 @@ train.csv - The training set, comprising the full_text of each essay, identified
 test.csv - For the test data we give only the full_text of an essay together with its text_id.
 sample_submission.csv - A submission file in the correct format. See the Evaluation page for details.
 
-# Please note that this is a Code Competition. We give a few sample essays in test.csv to help you author your solutions. When your submission is scored, this example test data will be replaced with the full test set. The full test set comprises about 2700 essays. #
+### Please note that this is a Code Competition. We give a few sample essays in test.csv to help you author your solutions. When your submission is scored, this example test data will be replaced with the full test set. The full test set comprises about 2700 essays. ###
 
-
+# link #
+https://www.kaggle.com/competitions/feedback-prize-english-language-learning/data
 
 
