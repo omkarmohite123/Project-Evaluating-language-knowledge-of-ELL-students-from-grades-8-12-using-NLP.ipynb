@@ -1,8 +1,7 @@
 ### KAGGLE COMPETITION  ###
 
 ## COMPETITION NAME ##
- # Feedback Prize - English Language Learning
-Evaluating language knowledge of ELL students from grades 8-12 #
+ # Feedback Prize - English Language Learning Evaluating language knowledge of ELL students from grades 8-12 #
 
 # Goal of the Competition #
 The goal of this competition is to assess the language proficiency of 8th-12th grade English Language Learners (ELLs). Utilizing a dataset of essays written by ELLs will help to develop proficiency models that better supports all students.
